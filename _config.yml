@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Dev. Tips"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : "https://digerati.github.io"
+name                     : "sh. Jeon"
+description              : "iOS Developer"
+url                      : "https://sh-jeon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -85,8 +85,8 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
-  app_id                 :
+  username               : "Seokhwan Jeon"
+  app_id                 : 
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "jeon"
+  location         : ""
   email            :
   links:
     - label: "Email"
